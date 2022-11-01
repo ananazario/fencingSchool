@@ -1,0 +1,18 @@
+body {
+  background-image: url(https://images.pexels.com/photos/6538913/pexels-photo-6538913.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+  padding: 0;
+}
+body .squars {
+  width: 80%;
+}
+body .squars p {
+  width: 100%;
+  padding: 1rem 3rem;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+}/*# sourceMappingURL=style.module.css.map */
